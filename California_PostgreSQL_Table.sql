@@ -27,3 +27,10 @@ WHERE
     table_name = 'housing_data';
 
 SELECT * FROM housing_data;
+
+SELECT COUNT(*) FROM housing_data;
+
+
+
+
+
